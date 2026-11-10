@@ -1,4 +1,4 @@
-Hi, I'm Mohamed 👋
+# Hi, I'm Mohamed 👋
 
 I'm an independent developer building under BakrLabs — a technology initiative focused on developing practical software, integrated systems, engineering tools, and digital solutions.
 
@@ -6,7 +6,7 @@ I enjoy solving complex technical problems through software engineering, system 
 
 My interests span software development, systems engineering, cybersecurity, networking, and aerospace engineering.
 
-What I Build
+## What I Build
 
 - Software & Systems Development: Designing and building complete software solutions, from individual components to integrated systems. This includes system architecture, core logic, application components, and interactions between different services.
 - Command-Line & Automation Tools: Developing efficient, lightweight utilities and automation solutions, primarily using Rust.
@@ -30,7 +30,7 @@ My approach includes:
 - Testing individual components and validating overall system behavior.
 
 
-Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
 <b>Programming Languages</b><br>
@@ -53,13 +53,15 @@ Tech Stack & Tools
 <b>Networking & Cybersecurity</b><br>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-</p>Engineering Interests
+</p>
+
+## Engineering Interests
 
 I'm particularly interested in aerospace engineering, astrodynamics, orbital mechanics, and propulsion systems.
 
 I aim to combine software engineering with scientific and engineering disciplines to develop tools and integrated solutions that help analyze, simulate, and solve real-world technical problems.
 
-How I Work
+## How I Work
 
 - Systematic Design: Understand the problem, plan the architecture, and build the solution around clearly defined components.
 - Simplicity: Avoid unnecessary complexity while maintaining the functionality the system requires.
@@ -68,7 +70,7 @@ How I Work
 - Documentation: Provide clear READMEs, usage examples, architecture descriptions, and technical explanations.
 - Continuous Learning: Improve through experimentation, independent research, and practical projects.
 
-Let's Build Something
+### Let's Build Something
 
 I'm open to freelance opportunities, technical collaborations, custom software development, and integrated system projects.
 
